@@ -35,7 +35,7 @@
         "#2e2e2e"
       ]
     },
-    "favicon": "@PROJECT_PATH@/assets/images/dds-logo-19-128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/dds-logo19-128x128.png",
     "noImageResize": "",
     "versionFirst": "4.6.7",
     "uniqCompNum": 29,
